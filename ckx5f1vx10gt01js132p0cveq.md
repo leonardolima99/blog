@@ -5,7 +5,7 @@ A seguir resumirei os passos para instalação e preparação das ferramentas ne
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Node.js - Usando NVM](https://github.com/nvm-sh/nvm)
 - [Navegador Chromium](https://www.chromium.org/Home)
--
+
 ---
 ## Instalação de dependências
 
