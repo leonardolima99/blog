@@ -9,7 +9,7 @@ Você pode pensar que isso é uma coisa dificílima, e muito complicada, mas ver
 Siga os passos que não tem erro.
 
 ---
-## Escolher as fontes
+## Escolhendo as fontes
 
 Acesse https://fonts.google.com/ e siga os passos.
 
@@ -77,7 +77,7 @@ module.exports = {
 Simples, não?
 
 ---
-## Vinculando fontes ao projeto.
+## Vinculando fontes ao projeto
 
 Agora você precisa fazer com que o React Native encontre suas fontes quando você for usá-las.
 
@@ -93,7 +93,7 @@ Isto jogará suas fontes para `android/app/src/main/assets/fonts', veja:
 Pronto! Agora é só usar a fonte chamando pelo nome do arquivo.
 
 ---
-## Usando a fonte personalizada
+## Usando as fontes personalizadas
 
 Para usar a fonte dentro de uma tela no react native, é muito fácil. No seu estilo, onde você colocaria o nome de qualquer fonte, coloque o nome do arquivo. Dessa forma:
 
